@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rpg2080
 - 👀 I’m interested in data analysis and machine learning
 - 🌱 I’m currently learning Business analytics
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on future
 - 📫 How to reach me is to simply send a message
 
 <!---
